@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Music Reco</string>
+    <!-- nav strings-->
+    <string name="title_activity_nav">Music Reco</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_minimize">Minimize App</string>
+    <string name="action_exit">Exit</string>
+    <string name="action_menu">Menu</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- loading -->
+    <string name="loading_main_title">MUSIC</string>
+    <string name="loading_sub_title">Reco</string>
+</resources>

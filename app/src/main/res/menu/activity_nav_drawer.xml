@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group_function"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_scan"
+            android:icon="@drawable/ic_menu_scan"
+            android:title="Scan" />
+        <item
+            android:id="@+id/nav_import"
+            android:icon="@drawable/ic_menu_import"
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_processing"
+            android:icon="@drawable/ic_menu_queue"
+            android:title="Processing Queue" />
+        <item
+            android:id="@+id/nav_play"
+            android:icon="@drawable/ic_menu_play"
+            android:title="Play" />
+
+    </group>
+
+
+    <group android:id="@+id/group_setting"
+        android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_setting"
+                android:icon="@drawable/ic_menu_setting"
+                android:title="Setting" />
+    </group>
+
+</menu>
